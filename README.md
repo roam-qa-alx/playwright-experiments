@@ -7,8 +7,8 @@ Reviewing playwright's ability to test different web features.
 Using https://the-internet.herokuapp.com as a training ground, I'll be creating playwright in 3 different stages:
 
 1. a first pass test > all code in 1 one, no smart/abstraction/page objects
-2. a refined test > storing properties in variables + utilisng hooks
-3. a future proof test > following a playwright + test automation best practices
+2. a refined test > storing properties in variables + utilising hooks
+3. a future proof test > refine with playwright + test automation best practices
 
 Chrome will be used for these tests.
 
