@@ -1,0 +1,21 @@
+{
+  "name": "playwright-experiments",
+  "version": "1.0.0",
+  "description": "Trying out different playwright features &amp; use cases",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roam-qa-alx/playwright-experiments.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roam-qa-alx/playwright-experiments/issues"
+  },
+  "homepage": "https://github.com/roam-qa-alx/playwright-experiments#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.20.1"
+  },
+  "dependencies": {}
+}
