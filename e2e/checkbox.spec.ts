@@ -18,7 +18,7 @@ test.beforeEach(async({page})=> {
 })
 
 test("checkbox stage 2 @two", async ({ page }) => {
-  //home page
+  // home page
   const checkboxLink = await page.locator('text=Checkboxes');
   checkboxLink.click();
   // checkboxes page
