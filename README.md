@@ -21,20 +21,24 @@ This intention is to capture:
 - overall ease of use of playwright using ts
 - also, it's my first time using playwright
 
-### What
+### Test areas
 
-I've chosen the below interactions to cover basic functions to typically more complicated actions. I've purposefully excluded things focusing on page navigation, clicking, input text as that's bread & butter nowawdays.
-https://the-internet.herokuapp.com/checkboxes
-https://the-internet.herokuapp.com/disappearing_elements
-https://the-internet.herokuapp.com/drag_and_drop
-https://the-internet.herokuapp.com/entry_ad
-https://the-internet.herokuapp.com/frames
-https://the-internet.herokuapp.com/tables
-https://the-internet.herokuapp.com/upload
-https://the-internet.herokuapp.com/download
+I've chosen the below interactions to cover basic functions to typically more complicated actions. 
+
+I've purposefully excluded things focusing on page navigation, clicking, input text as that's bread & butter nowawdays.
+
+- https://the-internet.herokuapp.com/checkboxes
+- https://the-internet.herokuapp.com/disappearing_elements
+- https://the-internet.herokuapp.com/drag_and_drop
+- https://the-internet.herokuapp.com/entry_ad
+- https://the-internet.herokuapp.com/frames
+- https://the-internet.herokuapp.com/tables
+- https://the-internet.herokuapp.com/upload
+- https://the-internet.herokuapp.com/download
 
 
+### Running
 
-npm install
+`npm install`
 
-Also, I'll be including GitHub Actions examples, because it's cool. 
+Includes GitHub Actions, because it's cool. 
